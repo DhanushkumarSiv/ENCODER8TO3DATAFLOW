@@ -75,8 +75,9 @@ endmodule
 ![image](https://github.com/user-attachments/assets/2e04e060-60ef-4225-829e-62970c497f31)
 
 
-**RESULTS**
-           Thus, the implementation of the Encoder 8 to 3 in Dataflow Modelling using Verilog and the validation of its functionality through functional tables has been completed.
+**RESULT :**
+
+Thus, the implementation of the Encoder 8 to 3 in Dataflow Modelling using Verilog and the validation of its functionality through functional tables has been completed.
 
 
 
